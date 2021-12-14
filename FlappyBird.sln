@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBird", "FlappyBird\FlappyBird.csproj", "{18E3EF03-404C-4910-9293-2BA3E70B86BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E3EF03-404C-4910-9293-2BA3E70B86BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E3EF03-404C-4910-9293-2BA3E70B86BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E3EF03-404C-4910-9293-2BA3E70B86BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E3EF03-404C-4910-9293-2BA3E70B86BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F874BD05-FB3F-4766-8022-C25413241631}
+	EndGlobalSection
+EndGlobal
